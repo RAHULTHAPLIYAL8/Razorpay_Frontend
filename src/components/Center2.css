@@ -1,0 +1,48 @@
+.cardtwo
+{
+    display: grid;
+    grid-template-columns: 1.8fr 5fr;
+    width: 50vw;
+    height: 35vh;
+    color: whites;
+
+    
+}
+.cardtwo-heading
+{
+   
+    color: white;
+    padding: 10px 0px 0px 10px;
+    border-top: 4px solid aqua;
+    font-size: 20px;
+    
+
+    
+}
+.cardtwo-content
+{
+    
+    color: white;
+    border-top: 4px solid aqua;
+    font-size: 14px
+}
+.cardtwo-btn
+       {
+        width: 100px;
+        height: 30px;
+        background-color:#2a86f3;
+        outline: none;
+        border-radius: 10px;
+        border: none;
+        color: white;
+        outline: white;
+        text-align: center;
+        padding-top:6px;
+        margin:5px;
+       }
+.bluecircle
+{
+    position: relative;
+    top:5px;
+    margin: 10px;
+}

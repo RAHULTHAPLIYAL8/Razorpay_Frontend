@@ -1,0 +1,95 @@
+.party
+{
+       border:2px dotted white;
+       padding: 5px;
+       color: grey;
+       background-color: rgb(17, 17, 17);
+       margin-bottom: 20px;
+       
+}
+/* .headcenter
+{   
+} */
+.center
+       {
+        background-color: rgb(17, 17, 17);
+       }
+       .card
+       {
+        height: 18vh;
+        width: 50vw;
+        background-color:  #1c2431;
+        padding-top: 5px;
+
+       }
+       .card{
+        display: grid;
+        grid-template-columns: 1fr 5fr;
+        justify-items: center;
+        align-items: center;
+       }
+       .card1
+       {
+        width: 100%;
+        height: 100%;
+        color: white;
+
+       }
+       .btn
+       {
+        width: 200px;
+        height: 40px;
+        background-color: blue;
+        outline: none;
+        border-radius: 10px;
+        border: none;
+        color: white;
+        outline: white;
+       }
+       .right-arrow
+       {
+        position: relative;
+        bottom:-6px;
+        right: -10px;
+       }
+       .line
+       {
+        display: flex;
+        justify-content: space-between ;
+       }
+       .line1
+       {
+        width: 10vw;
+        height: 5px;
+        background-color: grey;
+        margin: 2px;
+       }
+       .bank-image
+       {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+       }
+       .btn{
+        text-align: center;
+        background-color:#2a86f3;
+        padding-top: 5px;
+        margin: 2vh;
+       }
+       .line1 div{
+        width: 6vw;
+        height: 5px;
+        background-color:rgb(26, 241, 195);
+       }
+       .hundred
+       {
+              color: grey;
+       }
+       .upperbutton
+       {
+              color:white;
+              width: 8vw;
+              height: 4vh;
+              background-color: purple;
+       }

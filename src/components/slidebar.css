@@ -1,0 +1,26 @@
+.slidbar
+{
+ display: grid;
+ grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+ height: 100vh;
+ align-items: center;
+ justify-content: center;
+ background-color: #1c2431;
+ 
+ color: grey;
+}
+.slidbar p{
+ color: grey;
+}
+.button
+{
+    background-color: rgb(76, 255, 76);
+    outline: none;
+    border: none;
+    width: 40px;
+    height: 15px;
+    color: white;
+    margin-top: 5px;
+    border-radius: 5px;
+    
+}
